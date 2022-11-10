@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hello 22222 master test
-=======
 33333333333 hot-fix test
->>>>>>> hot-fix
